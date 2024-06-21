@@ -28,7 +28,7 @@ const Navbar = () => {
         </li>
         <li
           onClick={() => {
-            setMenu("womens");
+            setMenu("women");
           }}
         >
           Women
